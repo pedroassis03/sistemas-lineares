@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\bin\Debug\Regra_de_Cramer.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\bin\Debug\Regra_de_Cramer.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\bin\Debug\Regra_de_Cramer.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\bin\Debug\MathNet.Numerics.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\bin\Debug\MathNet.Numerics.xml
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\obj\Debug\Regra_de_Cramer.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\obj\Debug\Regra_de_Cramer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\obj\Debug\Regra_de_Cramer.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\obj\Debug\Regra_de_Cramer.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Regra_de_Cramer\Regra_de_Cramer\obj\Debug\Regra_de_Cramer.pdb
